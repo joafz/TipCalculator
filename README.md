@@ -7,5 +7,5 @@
 <p>This is a bill splitting, tip calculating app.</p> 
 
 
-![Pic](https://udemy-images.s3.amazonaws.com/redactor/raw/2019-09-17_15-56-14-a024a9c37606ff9c8d5f5b88993b47db.gif)
+![Pic](https://user-images.githubusercontent.com/39883704/73148845-57271680-408c-11ea-80bb-cc1b6d2625e7.gif)
 
